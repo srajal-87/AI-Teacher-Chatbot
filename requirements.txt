@@ -1,0 +1,4 @@
+openai
+langdetect
+streamlit
+python-dotenv
